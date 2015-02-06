@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/pkmnfrk/testnpm/issues"
   },
-  "homepage": "https://github.com/pkmnfrk/testnpm"
+  "homepage": "https://github.com/pkmnfrk/testnpm",
+  "bin": "./index.js"
 }
